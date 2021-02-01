@@ -13,7 +13,7 @@ import Alamofire
 class NetworkManager:GoogleDirectionAPI {
     
     static let ACCESS_TOKEN = "AIzaSyDEWvDSyXxWe2Z3h5D1VizUUxaBE08FCU0"
-    static let origin = "3.766878"
+    static let origin = "43.469746, 3.766694"
     static let destination = "43.464835, -3.795811"
     static let mode = "bicycling"
     
